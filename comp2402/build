@@ -1,4 +1,4 @@
-zip comp2402a5{.zip,}
+zip -r comp2402a5{.zip,}
 
 
 curl -sb -X POST \
